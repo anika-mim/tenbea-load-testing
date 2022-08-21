@@ -1,0 +1,32 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1661092319192,9381,https://tenbea.com/,200,OK,Thread Group 1-1,text,true,,1251817,13855,1,1,https://tenbea.com/,2106,0,1483
+1661092319192,2421,https://tenbea.com/-0,200,OK,Thread Group 1-1,text,true,,34854,492,1,1,https://tenbea.com/,2106,0,1483
+1661092321668,2421,https://tenbea.com/-1,200,OK,Thread Group 1-1,text,true,,120392,1090,1,1,https://tenbea.com/_next/static/css/ac8ebb263bcd6e5e.css,354,0,0
+1661092321668,1891,https://tenbea.com/-0,200,OK,,text,true,,106048,529,0,0,https://tenbea.com/_next/static/css/ac8ebb263bcd6e5e.css,354,0,0
+1661092323765,324,https://tenbea.com/-1,200,OK,ResDownload-Thread-3,text,true,,14344,561,0,0,https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap,314,0,256
+1661092321668,2741,https://tenbea.com/-2,200,OK,Thread Group 1-1,text,true,,91793,541,1,1,https://tenbea.com/_next/static/chunks/polyfills-5cd94c89d3acac5f.js,1579,0,962
+1661092321668,1274,https://tenbea.com/-3,200,OK,Thread Group 1-1,text,true,,2101,539,1,1,https://tenbea.com/_next/static/chunks/webpack-cb7634a8b6194820.js,1274,0,963
+1661092321668,3355,https://tenbea.com/-4,200,OK,Thread Group 1-1,text,true,,130339,541,1,1,https://tenbea.com/_next/static/chunks/framework-5f4595e5518b5600.js,1580,0,963
+1661092321668,3011,https://tenbea.com/-5,200,OK,Thread Group 1-1,text,true,,110693,536,1,1,https://tenbea.com/_next/static/chunks/main-7376ac512dd09c8f.js,1581,0,963
+1661092321668,3661,https://tenbea.com/-6,200,OK,Thread Group 1-1,text,true,,160887,542,1,1,https://tenbea.com/_next/static/chunks/pages/_app-ed639543eb5b9fee.js,1582,0,963
+1661092322944,1735,https://tenbea.com/-7,200,OK,Thread Group 1-1,text,true,,80461,535,1,1,https://tenbea.com/_next/static/chunks/352-b9fd1f3088bbfa55.js,616,0,0
+1661092324097,307,https://tenbea.com/-8,200,OK,Thread Group 1-1,text,true,,3779,543,1,1,https://tenbea.com/_next/static/chunks/pages/index-66740894fb42a28e.js,307,0,0
+1661092324406,275,https://tenbea.com/-9,200,OK,Thread Group 1-1,text,true,,2693,544,1,1,https://tenbea.com/_next/static/mbsBe3Tpuz05Mk0EBJ8-N/_buildManifest.js,275,0,0
+1661092324410,271,https://tenbea.com/-10,200,OK,Thread Group 1-1,text,true,,430,542,1,1,https://tenbea.com/_next/static/mbsBe3Tpuz05Mk0EBJ8-N/_ssgManifest.js,271,0,0
+1661092324680,336,https://tenbea.com/-11,200,OK,Thread Group 1-1,text,true,,445,549,1,1,https://tenbea.com/_next/static/mbsBe3Tpuz05Mk0EBJ8-N/_middlewareManifest.js,336,0,0
+1661092324680,2972,https://tenbea.com/-12,200,OK,Thread Group 1-1,bin,true,,78655,527,1,1,https://api.tenbea.com/images/images-1656933495625.jpg,1542,0,922
+1661092324682,2353,https://tenbea.com/-13,200,OK,Thread Group 1-1,bin,true,,36753,528,1,1,https://api.tenbea.com/images/images-1651137019794.webp,1799,0,918
+1661092324682,2664,https://tenbea.com/-14,200,OK,Thread Group 1-1,bin,true,,89919,527,1,1,https://api.tenbea.com/images/images-1651137445392.jpg,1540,0,918
+1661092325018,3249,https://tenbea.com/-15,200,OK,Thread Group 1-1,bin,true,,132128,527,1,1,https://api.tenbea.com/images/images-1660677290161.jpg,1463,0,878
+1661092325024,1702,https://tenbea.com/-16,200,OK,Thread Group 1-1,bin,true,,30823,528,1,1,https://api.tenbea.com/images/images-1654660066336.webp,1457,0,872
+1661092325331,2019,https://tenbea.com/-17,200,OK,Thread Group 1-1,bin,true,,22627,528,1,1,https://api.tenbea.com/images/images-1651123885478.webp,2018,0,1403
+1661092326726,623,https://tenbea.com/-18,200,OK,Thread Group 1-1,bin,true,,27611,528,1,1,https://api.tenbea.com/images/images-1651124043574.webp,312,0,0
+1661092327036,616,https://tenbea.com/-19,200,OK,Thread Group 1-1,bin,true,,20819,528,1,1,https://api.tenbea.com/images/images-1651124135572.webp,616,0,0
+1661092327347,1227,https://tenbea.com/-20,200,OK,Thread Group 1-1,bin,true,,15051,528,1,1,https://api.tenbea.com/images/images-1651124251487.webp,1227,0,612
+1661092327349,306,https://tenbea.com/-21,200,OK,Thread Group 1-1,bin,true,,15763,528,1,1,https://api.tenbea.com/images/images-1651124288012.webp,306,0,0
+1661092327351,610,https://tenbea.com/-22,200,OK,Thread Group 1-1,bin,true,,16429,528,1,1,https://api.tenbea.com/images/images-1651124435945.webp,610,0,0
+1661092327652,310,https://tenbea.com/-23,200,OK,Thread Group 1-1,bin,true,,13539,528,1,1,https://api.tenbea.com/images/images-1651125283793.webp,310,0,0
+1661092327653,920,https://tenbea.com/-24,200,OK,Thread Group 1-1,bin,true,,12833,528,1,1,https://api.tenbea.com/images/images-1654659987974.webp,920,0,611
+1661092328581,293,https://tenbea.com/,304,Not Modified,Thread Group 1-1,,true,,186,381,1,1,https://tenbea.com/,0,0,0
+1661092328876,307,https://api.tenbea.com/api/v1/notice-modal,200,OK,Thread Group 1-1,text,true,,861,411,1,1,https://api.tenbea.com/api/v1/notice-modal,307,0,0
+1661092319156,9981,Test,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-1,,true,,1252864,14647,1,1,null,2413,37,1483
